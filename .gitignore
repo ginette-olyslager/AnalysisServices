@@ -1,0 +1,13 @@
+# Negeer alles
+*
+
+# Doorzoek submappen
+!*/
+
+# Bewaar Git-configuratie
+!.gitignore
+!.gitattributes
+
+# Analysis Services bestanden
+!*.smproj
+!*.bim
